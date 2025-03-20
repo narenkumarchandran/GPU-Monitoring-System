@@ -61,6 +61,16 @@ An Entity Relationship (ER) Diagram is a type of flowchart that illustrates how 
 - **priceinfo** (*Product_price*, *shipping_price*, *Discount*, *Serial_number*)
 
 # TECH STACK USED FOR THE PROJECT
+## DEPENDENCIES
+
+The following dependencies are required for the project:
+
+- [Requests](https://docs.python-requests.org/en/latest/) - For making HTTP requests and fetching webpage data.
+- [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/) - For parsing HTML and extracting relevant data.
+- [Pandas](https://pandas.pydata.org/) - For data manipulation and analysis.
+- [MySQL-Connector-Python](https://dev.mysql.com/doc/connector-python/en/) - For interacting with the MySQL database.
+- [Flask](https://flask.palletsprojects.com/) - For building the web application.
+
 
 ## FRONTEND:
 
