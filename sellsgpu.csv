@@ -1,0 +1,61 @@
+Manufacturer_name,Product_name,Serial_number,url
+MSI,3060,0,https://www.newegg.com/msi-rtx-3060-ventus-2x-12g-oc-nvidia-geforce-rtx-3060-12gb-gddr6/p/N82E16814137632
+MSI,4060,1,https://www.newegg.com/msi-rtx-4060-ti-ventus-2x-black-16g-oc-nvidia-geforce-rtx-4060-ti-16gb-gddr6/p/N82E16814137818
+ZOTAC,"4070 Ti SUPER",2,https://www.newegg.com/zotac-trinity-zt-d40730d-10p-nvidia-geforce-rtx-4070-ti-super-16gb-gddr6x/p/N82E16814500576
+MSI,3060,3,https://www.newegg.com/msi-rtx-3060-ventus-3x-12g-oc-nvidia-geforce-rtx-3060-12gb-gddr6/p/N82E16814137631
+MSI,4060,4,https://www.newegg.com/msi-rtx-4060-ventus-2x-black-8g-oc-nvidia-geforce-rtx-4060-8gb-gddr6/p/N82E16814137804
+GIGABYTE,"4070 SUPER",5,https://www.newegg.com/gigabyte-gv-n407sgaming-oc-12gd-nvidia-geforce-rtx-4070-super-12gb-gddr6x/p/N82E16814932681
+MSI,"4070 SUPER",6,https://www.newegg.com/msi-rtx-4070-super-12g-gaming-x-slim-nvidia-geforce-rtx-4070-super-12gb-gddr6x/p/N82E16814137860
+MSI,3060,7,https://www.newegg.com/msi-rtx-3060-ventus-2x-8g-oc-nvidia-geforce-rtx-3060-8gb-gddr6/p/N82E16814137892
+MSI,"4070 Ti SUPER",8,https://www.newegg.com/msi-ventus-rtx-4070-ti-super-16g-shadow-3x-oc-nvidia-geforce-rtx-4070-ti-super-16gb-gddr6x/p/N82E16814137898
+GIGABYTE,"4070 Ti SUPER",9,https://www.newegg.com/gigabyte-windforce-gv-n407tswf3max-oc-16gd-nvidia-geforce-rtx-4070-ti-super-16gb-gddr6x/p/N82E16814932735
+NVIDIA,"4070 Ti SUPER",10,https://www.newegg.com/asus-tuf-gaming-tuf-rtx4070tis-o16g-gaming-nvidia-geforce-rtx-4070-ti-super-16gb-gddr6x/p/N82E16814126685
+GIGABYTE,"4070 SUPER",11,https://www.newegg.com/gigabyte-windforce-gv-n407swf3oc-12gd-nvidia-geforce-rtx-4070-super-12gb-gddr6x/p/N82E16814932683
+GIGABYTE,4090,12,https://www.newegg.com/gigabyte-gv-n4090gaming-oc-24gd-nvidia-geforce-rtx-4090-24gb-gddr6x/p/N82E16814932550
+NVIDIA,"4080 Super",13,https://www.newegg.com/asus-tuf-gaming-tuf-rtx4080s-o16g-gaming-nvidia-geforce-rtx-4080-super-16gb-gddr6x/p/N82E16814126693
+MSI,3050,14,https://www.newegg.com/msi-rtx-3050-ventus-2x-6g-oc-nvidia-geforce-rtx-3050-6gb-gddr6/p/N82E16814137878
+MSI,"4070 SUPER",15,https://www.newegg.com/msi-rtx-4070-super-12g-ventus-2x-oc-nvidia-geforce-rtx-4070-super-12gb-gddr6x/p/N82E16814137861
+Unknown,4090,16,https://www.newegg.com/asus-geforce-rtx-4090-rog-strix-rtx4090-o24g-white/p/N82E16814126616
+ZOTAC,4060,17,https://www.newegg.com/zotac-gaming-zt-d40600h-10m-nvidia-geforce-rtx-4060-8gb-gddr6/p/N82E16814500565
+MSI,"4080 Super",18,https://www.newegg.com/msi-rtx-4080-super-16g-ventus-3x-oc-nvidia-geforce-rtx-4080-super-16gb-gddr6x/p/N82E16814137852
+NVIDIA,"4070 Ti SUPER",19,https://www.newegg.com/asus-geforce-rtx-4070-ti-super-tuf-rtx4070tis-o16g-white-gaming/p/N82E16814126701
+MSI,"4070 Ti SUPER",20,https://www.newegg.com/msi-rtx-4070-ti-super-16g-gaming-x-slim-nvidia-geforce-rtx-4070-ti-super-16gb-gddr6x/p/N82E16814137855
+GIGABYTE,4070,21,https://www.newegg.com/gigabyte-gv-n4070aero-ocv2-12gd-nvidia-geforce-rtx-4070-12gb-gddr6x/p/N82E16814932684R
+GIGABYTE,"4080 Super",22,https://www.newegg.com/gigabyte-windforce-gv-n408swf3v2-16gd-nvidia-geforce-rtx-4080-super-16gb-gddr6x/p/N82E16814932672
+MSI,3050,23,https://www.newegg.com/msi-rtx-3050-aero-itx-8g-oc-nvidia-geforce-rtx-3050-8gb-gddr6/p/N82E16814137729
+GIGABYTE,4090,24,https://www.newegg.com/gigabyte-gv-n4090aero-oc-24gd-nvidia-geforce-rtx-4090-24gb-gddr6x/p/N82E16814932601
+MSI,3080,25,https://www.newegg.com/msi-geforce-rtx-3080-rtx-3080-ventus-3x-plus-10g-oc-lhr/p/N82E16814137686
+MSI,3050,26,https://www.newegg.com/msi-rtx-3050-ventus-2x-xs-8g-oc-nvidia-geforce-rtx-3050-8gb-gddr6/p/N82E16814137810
+NVIDIA,3050,27,https://www.newegg.com/asus-dual-rtx3050-o6g-nvidia-geforce-rtx-3050-6gb-gddr6/p/N82E16814126708
+NVIDIA,"4080 Super",28,https://www.newegg.com/asus-geforce-rtx-4080-super-tuf-rtx4080s-16g-gaming/p/N82E16814126694
+ZOTAC,3060,29,https://www.newegg.com/zotac-twin-edge-oc-zt-a30600p-10m-nvidia-geforce-rtx-3060-12gb-gddr6/p/N82E16814500574
+MSI,4070,30,https://www.newegg.com/msi-rtx-4070-ventus-3x-e1-12g-oc-nvidia-geforce-rtx-4070-12gb-gddr6/p/N82E16814137896
+MSI,3060,31,https://www.newegg.com/msi-geforce-rtx-3060-ti-rtx-3060-ti-ventus-2x-8g-ocv1-lhr/p/N82E16814137748
+GIGABYTE,"4070 SUPER",32,https://www.newegg.com/gigabyte-gv-n407saero-oc-12gd-nvidia-geforce-rtx-4070-super-12gb-gddr6x/p/N82E16814932680
+Unknown,4090,33,https://www.newegg.com/asus-tuf-gaming-tuf-rtx4090-o24g-og-gaming-nvidia-geforce-rtx-4090-24gb-gddr6x/p/N82E16814126658
+GIGABYTE,4060,34,https://www.newegg.com/gigabyte-windforce-gv-n4060wf2oc-8gd-nvidia-geforce-rtx-4060-8gb-gddr6/p/N82E16814932630
+Unknown,4090,35,https://www.newegg.com/asus-geforce-rtx-4090-rog-strix-rtx4090-o24g-gaming/p/N82E16814126593
+MSI,4060,36,https://www.newegg.com/msi-rtx-4060-ti-ventus-2x-black-8g-oc-nvidia-geforce-rtx-4060-ti-8gb-gddr6/p/N82E16814137799
+GIGABYTE,3060,37,https://www.newegg.com/gigabyte-windforce-oc-gv-n3060wf2oc-12gd-rev2-0-nvidia-geforce-rtx-3060-12gb-gddr6/p/N82E16814932658
+MSI,"4070 Ti SUPER",38,https://www.newegg.com/msi-rtx-4070-ti-super-16g-gaming-x-trio-white-nvidia-geforce-rtx-4070-ti-super-16gb-gddr6x/p/N82E16814137859
+GIGABYTE,4070,39,https://www.newegg.com/gigabyte-windforce-gv-n4070wf3oc-12gd-nvidia-geforce-rtx-4070-12gb-gddr6x/p/N82E16814932737
+ZOTAC,"4080 Super",40,https://www.newegg.com/zotac-trinity-zt-d40820q-10p-nvidia-geforce-rtx-4080-super-16gb-gddr6x/p/N82E16814500581
+Unknown,"4070 Ti SUPER",41,https://www.newegg.com/asus-rog-strix-rtx4070tis-o16g-gaming-nvidia-geforce-rtx-4070-ti-super-16gb-gddr6x/p/N82E16814126695
+Unknown,"4070 SUPER",42,https://www.newegg.com/asus-dual-rtx4070s-o12g-evo-nvidia-geforce-rtx-4070-super-12gb-gddr6x/p/N82E16814126711
+MSI,"4080 Super",43,https://www.newegg.com/msi-rtx-4080-super-16g-gaming-x-slim-nvidia-geforce-rtx-4080-super-16gb-gddr6x/p/N82E16814137886
+GIGABYTE,"4080 Super",44,https://www.newegg.com/gigabyte-gv-n408sgaming-oc-16gd-nvidia-geforce-rtx-4080-super-16gb-gddr6x/p/N82E16814932671
+ZOTAC,"4070 SUPER",45,https://www.newegg.com/zotac-twin-edge-zt-d40720e-10m-nvidia-geforce-rtx-4070-super-12gb-gddr6x/p/N82E16814500572
+MSI,"4080 Super",46,https://www.newegg.com/msi-rtx-4080-super-16g-suprim-x-nvidia-geforce-rtx-4080-super-16gb-gddr6x/p/N82E16814137853
+GIGABYTE,"4070 Ti SUPER",47,https://www.newegg.com/gigabyte-gv-n407tsgaming-oc-16gd-nvidia-geforce-rtx-4070-ti-super-16gb-gddr6x/p/N82E16814932676
+MSI,"4080 Super",48,https://www.newegg.com/msi-rtx-4080-super-16g-expert-nvidia-geforce-rtx-4080-super-16gb-gddr6x/p/N82E16814137871
+Unknown,4090,49,https://www.newegg.com/asus-geforce-rtx-4090-tuf-rtx4090-o24g-gaming/p/N82E16814126594
+GIGABYTE,4060,50,https://www.newegg.com/gigabyte-gv-n4060aero-oc-8gd-nvidia-geforce-rtx-4060-8gb-gddr6/p/N82E16814932627
+GIGABYTE,"4080 Super",51,https://www.newegg.com/gigabyte-gv-n408saero-oc-16gd-nvidia-geforce-rtx-4080-super-16gb-gddr6x/p/N82E16814932670
+Unknown,"4080 Super",52,https://www.newegg.com/asus-geforce-rtx-4080-super-rog-strix-rtx4080s-o16g-white/p/N82E16814126703
+Unknown,"4070 SUPER",53,https://www.newegg.com/asus-dual-rtx4070s-o12g-white-nvidia-geforce-rtx-4070-super-12gb-gddr6x/p/N82E16814126698
+ZOTAC,4060,54,https://www.newegg.com/zotac-solo-zt-d40600g-10l-nvidia-geforce-rtx-4060-8gb-gddr6/p/N82E16814500558
+MSI,"4070 SUPER",55,https://www.newegg.com/msi-rtx-4070-super-12g-ventus-2x-white-oc-nvidia-geforce-rtx-4070-super-12gb-gddr6x/p/N82E16814137862
+Unknown,"4080 Super",56,https://www.newegg.com/asus-geforce-rtx-4080-super-proart-rtx4080s-o16g/p/N82E16814126704
+Unknown,"4080 Super",57,https://www.newegg.com/asus-video-card-proart-rtx4080s-16g-nvidia-geforce-rtx-4080-super-16gb-gddr6x/p/N82E16814126734
+ZOTAC,"4070 SUPER",58,https://www.newegg.com/zotac-twin-edge-zt-d40720h-10m-nvidia-geforce-rtx-4070-super-12gb-gddr6x/p/N82E16814500573
+MSI,"4070 SUPER",59,https://www.newegg.com/msi-rtx-4070-super-12g-ventus-3x-oc-nvidia-geforce-rtx-4070-super-12gb-gddr6x/p/N82E16814137863
